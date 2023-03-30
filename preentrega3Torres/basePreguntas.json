@@ -1,0 +1,42 @@
+[
+{
+    "categoria"  : "Cultura general",
+    "pregunta"   : "¿De qué se graduo Jordi?",
+    "respuesta"  : "Relaciones internacionales",
+    "incor1"     : "Doctor",
+    "incor2"     : "Profesor",
+    "incor3"     : "Contador",
+    "image"       : "https://imgs.search.brave.com/VwwXPb9OndtajuexIywN9xveJZcxPy10QGlQn3kg6mI/rs:fit:1200:758:1/g:ce/aHR0cHM6Ly9lc3Rh/dGljb3Muc3BvcnQu/ZXMvcmVzb3VyY2Vz/L2pwZy81LzkvMTU4/MTA4MjY2MTc5NS5q/cGc",
+    "object_fit" : "cover"
+},
+{
+    "categoria"  : "Cultura general",
+    "pregunta"   : "¿De qué se graduo Jordi?",
+    "respuesta"  : "Relaciones internacionales",
+    "incor1"     : "Doctor",
+    "incor2"     : "Profesor",
+    "incor3"     : "Contador",
+    "image"       : "https://imgs.search.brave.com/VwwXPb9OndtajuexIywN9xveJZcxPy10QGlQn3kg6mI/rs:fit:1200:758:1/g:ce/aHR0cHM6Ly9lc3Rh/dGljb3Muc3BvcnQu/ZXMvcmVzb3VyY2Vz/L2pwZy81LzkvMTU4/MTA4MjY2MTc5NS5q/cGc",
+    "object_fit" : "cover"
+},
+{
+    "categoria"  : "Cultura general",
+    "pregunta"   : "¿Chocolatada con o sin azucar?",
+    "respuesta"  : "Con azucar",
+    "incor1"     : "Sin azucar",
+    "incor2"     : "¿Cómo le vas a poner azucar?",
+    "incor3"     : "¿Qué sos enfermo?",
+    "image"       : "https://imgs.search.brave.com/Wwf66KgrOmE4WbvSm2l310SvpD5LD18kOOmCU4D-tEw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZWxwYXJhbmEuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA2L2Nob2NvbGF0/ZS5qcGc",
+    "object_fit" : "cover"
+},
+{
+    "categoria"  : "Deportes",
+    "pregunta"   : "¿Quién es mejor Messi o Ronaldo?",
+    "respuesta"  : "Messi",
+    "incor1"     : "No hay discución",
+    "incor2"     : "Ronaldo",
+    "incor3"     : "¿Cómo que Ronaldo tus papas son hermanos?",
+    "image"       : "https://imgs.search.brave.com/iq9ZTu2th6M88wwoUjfPj7nmBF7SUJGignBJTuK38L8/rs:fit:1200:900:1/g:ce/aHR0cDovLzIuYnAu/YmxvZ3Nwb3QuY29t/Ly1nNW9mZlNwVTdB/Yy9WUW15REZOSHQ1/SS9BQUFBQUFBQUcx/MC9yYTk0QmJyQ0FC/QS9zMTYwMC9tYXhy/ZXNkZWZhdWx0Lmpw/Zw",
+    "object_fit" : "cover"
+}
+]
